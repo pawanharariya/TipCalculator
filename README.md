@@ -1,4 +1,12 @@
-# Jetpack Compose #
+# Tip Calculator #
+
+A sample app created with Jetpack Compose.
+
+## App Preview ##
+
+<img src="./Screenshots/app_preview_light.jpeg" width=180/> <img src="./Screenshots/app_preview_dark.jpeg" width=180/>
+
+## Jetpack Compose ##
 
 Jetpack Compose is a modern way to build UI for Android apps. With compose we write user interfaces
 with Kotlin. So we can use Kotlin to define both how the app looks and how it behaves. This
